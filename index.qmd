@@ -1,22 +1,30 @@
 ---
-title: "Personal Website"
+title: "Zhuowei Deng"
+about:
+  template: solana
+  image: Zw_Photo.jpg
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/zhuowei-deng-41770519b/
+    - icon: github
+      text: Github
+      href: https://github.com/Zhuowei233
 ---
 
-This is a Quarto website.
+Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana. Download [My CV](/Zw_Resume.pdf)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+University of California, Los Angeles | Los Angeles, CA | Sept 2021 - June 2025
 
-```{r}
-runif(10)
-rnorm(10)
-```
+Bachelor of Science in Statistics & Data Science 
 
-```{r}
-x<-10
-print(x)
-```
+Bachelor of Science in Mathematics of Computation
+
+## Experience
+
+Wengo Analytics | Head Data Scientist | April 2018 - present
+
+GeoScynce | Chief Analyst | Spet 2012 - April 2018
 

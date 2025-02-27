@@ -1,0 +1,17 @@
+{
+  "hash": "b989c4c8859de94eab7e229a5a5b58dc",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Project 2\"\nAuthor: \"Zhuowei Deng\"\n---\n\n::: {.cell}\n\n```{.r .cell-code}\nprint(1:20)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1]  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20\n```\n\n\n:::\n:::\n",
+    "supporting": [
+      "project2_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

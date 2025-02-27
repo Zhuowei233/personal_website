@@ -1,0 +1,9 @@
+---
+date: "June, 2025"
+title: "Project 1"
+author: "Zhuowei Deng"
+---
+
+```{r}
+print(1:10)
+```

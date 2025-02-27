@@ -6,9 +6,11 @@ website:
   navbar:
     right:
       - href: index.qmd
-        text: Landing Page
+        text: Landing
       - href: about.qmd
-        text: About Page
+        text: About
+      - href: projects.qmd
+        text: Projects
 
 format:
   html:
