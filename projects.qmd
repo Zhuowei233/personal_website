@@ -5,6 +5,3 @@ listing:
   contents:
     - "projects/*.qmd"
 ---
-
-
-

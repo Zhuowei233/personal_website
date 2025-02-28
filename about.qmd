@@ -1,9 +1,96 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+## Education  
 
-```{r}
-1 + 1
-```
+### **University of California, Los Angeles (UCLA)**  
+*Los Angeles, CA* | *Sept 2021 - June 2025*  
+
+**Bachelor of Science in Statistics & Data Science**  
+**Bachelor of Science in Mathematics of Computation**  
+
+#### **Relevant Coursework**  
+
+::: {.callout-note collapse="true"}
+#### **Statistics & Data Science**  
+- **Statistical Modeling:** Intro to Probability (MATH 170E), Intro to Statistics (MATH 170S), Linear Models (STATS 100C)  
+- **Machine Learning & Data Analysis:** Intro Data Analysis & Regression (STATS 101A), Intermediate Regression & Data Mining (STATS 101C), Statistical Consulting (STATS 140XP, STATS 141XP)  
+- **Computational Methods:** Intro to Computational Statistics (STATS 102A), Monte Carlo Methods (STATS 102C), Applied Numerical Methods (MATH 151A, MATH 151B)   
+- **Mathematical Foundations for Data Science:** Mathematical Methods of Data Theory (MATH 118)
+- **Specialized Topics:** Intro to Computing & Optimization (STATS 102B), Design & Analysis of Experiments (STATS 101B) 
+:::
+
+::: {.callout-note collapse="true"}
+#### **Mathematics of Computation**  
+- **Linear Algebra & Optimization:** Linear Algebra (MATH 115A), Optimization (MATH 164)  
+- **Analysis & Differential Equations:** Real Analysis (MATH 131A), Differential Equations (MATH 33B)
+- **Complex Analysis & Applications:** Complex Analysis & Applications (MATH 132) 
+:::
+
+::: {.callout-note collapse="true"}
+#### **Computer Science & Programming**  
+- **Core Programming:** Programming with R (STATS 20), Intro to Python for Data Science (STATS 21), Advanced Programming (COMPTNG 10C)  
+- **Systems & Computational Methods:** Intro to Computer Science (COM SCI 31, COM SCI 32), Data Science (COM SCI M148)  
+- **Algorithms & Complexity:** Algorithms & Complexity (COM SCI 180) 
+:::
+
+## Skills  
+- **Programming:** Python, R, SQL, Java, C++  
+- **Data Science & Machine Learning:** Statistical modeling, predictive analytics, data visualization  
+- **Tools:** Tableau, LaTeX, Google Workspace, Microsoft Office  
+- **Languages:** English, Cantonese, Mandarin  
+
+## Experience  
+
+### **Bruin Women in Business**  
+ *10/2022 - Present*  
+
+#### **Event Committee Logistic Manager** | *03/2024 - 11/2024*  
+- Lead logistical coordination for the **Aspiring Businesswomen Summit 2024**, an all-day professional development event for high school students in Los Angeles.   
+- Oversaw event planning, including venue selection, catering, registration, and scheduling.
+- Managed communication with event speakers and participants to ensure their engagement and attendance.  
+
+#### **Event Committee Member** | *03/2023 - 11/2023*  
+- Developed and implemented logistical plans for the **2023 Aspiring Businesswomen Summit**.  
+- Managed **venue selection, catering, registration, and scheduling** to ensure seamless event execution.  
+- Participated in brainstorming sessions** to generate **innovative ideas for the summit’s agenda and activities.  
+- Provided on-site support, addressing attendee inquiries, managing registration, and facilitating session transitions.  
+
+#### **General Member** | *10/2022 - 09/2023*  
+- Participated in professional development workshops, speaker panels, and networking events.
+- Engaged with club activities and volunteered for event setup and execution.  
+
+
+### **Secretary, Community Improvement Service**  
+ *10/2017 - 08/2021*  
+
+- Managed a membership of 100+ individuals and facilitated communication between members, officers, and the community
+
+- Collaborated with organizations such as Self-Help for the Elderly and SFPCI (Pathways to Citizenship) to plan and execute volunteer events, building strong relationships and expanding the reach of our community service initiatives
+
+- Facilitated the distribution of volunteer opportunities to members and tracked their participation to ensure engagement and accountability
+
+- Hosted and led weekly officer meetings and member meetings to discuss progress, plan new initiatives, and address challenges
+
+### **Co-founder/Officer, CIS Tutoring Program**  
+ *09/2020 - 08/2021*  
+
+- Co-founded and led a tutoring program during the pandemic to support children struggling with remote learning.  
+
+- Recruited and trained a team of high school tutors to provide one-on-one or small group tutoring in math, English, and other subjects.  
+
+### **Intern/School Lead, Teen HEAL**  
+ *08/2019 - 08/2020*  
+
+- Led the development and execution of a **Healthy Appetite Club** at Balboa High School to empower members to improve their nutritional and physical well-being.  
+
+- Utilized skills in program planning, curriculum development, and goal setting.  
+
+- Demonstrated strong communication by collaborating with other HEAL interns from five high schools, reaching over 150 teens through club meetings, community events, and training.  
+
+
+## Contact  
+
+📧 **Email:** wendy13712166@gmail.com    
+🔗 [LinkedIn](https://www.linkedin.com/in/zhuowei-deng-41770519b/) | [GitHub](https://github.com/Zhuowei233) | [Resume](/Zw_Resume.pdf)  

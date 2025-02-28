@@ -10,21 +10,27 @@ about:
     - icon: github
       text: Github
       href: https://github.com/Zhuowei233
+    - icon: file-earmark-pdf
+      text: Download CV
+      href: Zw_Resume.pdf
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana. Download [My CV](/Zw_Resume.pdf)
+Hi, I’m Zhuowei Deng, a senior at UCLA, majoring in Statistics & Data Science and Mathematics of Computation. I have a strong passion for data science, machine learning, and statistical modeling, and I am always eager to explore how data can be used to solve real-world problems.
 
-## Education
+I was born and raised in China and immigrated to the United States when I was 12 years old. My family settled in San Francisco, where I spent my middle school and high school years. Before coming to UCLA, I knew I wanted to study something related to mathematics — it had always been my favorite subject. However, my interest in statistics specifically developed after taking AP Statistics in high school. Wanting to study both math and statistics, with a bit of computer science to enhance my analytical skills, I decided to pursue a double major in these fields.
 
-University of California, Los Angeles | Los Angeles, CA | Sept 2021 - June 2025
+Beyond academics, I actively contribute to Bruin Women in Business, where I serve as an Event Committee Logistic Manager. In this role, I oversee event operations, including logistics, speaker coordination, and participant outreach for major professional networking events such as the Aspiring Businesswomen Summit. This experience has helped me develop strong project management, organizational, and leadership skills. 
 
-Bachelor of Science in Statistics & Data Science 
+Outside of my studies, I love traveling and exploring new cuisines—Thai food is my favorite! I enjoy trying different dishes and discovering hidden gems in different cities. I also have a passion for movies, and my all-time favorite film is The Shawshank Redemption. 
 
-Bachelor of Science in Mathematics of Computation
+[Download CV](/Zw_Resume.pdf)
 
-## Experience
+::: {.gallery}
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+![UCLA Spirit - Posing with Joe Bruin](IMG_4666.jpeg){width=300px group="my-gallery" fig-cap="UCLA Spirit - Posing with Joe Bruin"}
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+![2023 BWIB ABS](abs_bwib.jpg){width=300px group="my-gallery" fig-cap="2023 BWIB ABS"}
 
+![Alaska Adventure - Meeting a Husky](IMG_9036.jpeg){width=300px group="my-gallery" fig-cap="Alaska Adventure - Meeting a Husky"}
+
+:::
