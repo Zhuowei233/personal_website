@@ -1,7 +1,21 @@
 ---
 title: "Projects"
+format: html
 listing:
   type: table
   contents:
-    - "projects/*.qmd"
+      
+    - date: 2024-06-14
+      title: "[Intimate Partner Violence During COVID-19](https://covidipv.humspace.ucla.edu/)"
+      description: "A data visualization project analyzing the impact of ethnocultural influences and external support systems on intimate partner violence during the COVID-19 pandemic, using survey data to uncover trends and disparities. "
+      
+    - date: 2024-06-14
+      title: "[Boost or Rest: How Caffeine and Sleep Influence Problem-Solving](Stats101B_Project.pdf)"
+      description: "A statistical analysis project exploring the effects of caffeine intake and nap duration on problem-solving abilities using a Two-Way Randomized Block Design. The study utilizes ANOVA, TukeyHSD, and data visualization techniques to assess cognitive performance outcomes."
+
+    - date: 2024-03-22
+      title: "[Estimating Implied Volatility of Call Options Using Newton-Raphson and the Black-Scholes Model](Math151A_Project.pdf)"
+      description: "A mathematical and computational project implementing the Newton-Raphson method to approximate implied volatility in call options pricing."
+      
 ---
+

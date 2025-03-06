@@ -23,14 +23,24 @@ Beyond academics, I actively contribute to Bruin Women in Business, where I serv
 
 Outside of my studies, I love traveling and exploring new cuisines—Thai food is my favorite! I enjoy trying different dishes and discovering hidden gems in different cities. I also have a passion for movies, and my all-time favorite film is The Shawshank Redemption. 
 
-[Download CV](/Zw_Resume.pdf)
+---
+
+### Moments & Memories
 
 ::: {.gallery}
 
-![UCLA Spirit - Posing with Joe Bruin](IMG_4666.jpeg){width=300px group="my-gallery" fig-cap="UCLA Spirit - Posing with Joe Bruin"}
+<!-- Second picture centered on top -->
+![2023 BWIB ABS](abs_bwib.jpg){width=600px group="my-gallery" fig-cap="2023 BWIB ABS"}
 
-![2023 BWIB ABS](abs_bwib.jpg){width=300px group="my-gallery" fig-cap="2023 BWIB ABS"}
+<div style="display: flex; justify-content: center; gap: 20px;">
+    
+  <!-- First and Third pictures side by side at bottom -->
+  
+  ![UCLA Spirit - Posing with Joe Bruin](IMG_4666.jpeg){width=300px group="my-gallery" fig-cap="UCLA Spirit - Posing with Joe Bruin"}
+  
+  ![Alaska Adventure - Meeting a Husky](IMG_9036.jpeg){width=300px group="my-gallery" fig-cap="Alaska Adventure - Meeting a Husky"}
 
-![Alaska Adventure - Meeting a Husky](IMG_9036.jpeg){width=300px group="my-gallery" fig-cap="Alaska Adventure - Meeting a Husky"}
+</div>
 
 :::
+

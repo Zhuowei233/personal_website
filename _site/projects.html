@@ -78,9 +78,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author"],
+      searchColumns: ["listing-date","listing-title","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -216,8 +216,8 @@ window.Quarto = {
          <option value="listing-title-sort" data-direction="asc">
           Title
         </option>
-         <option value="listing-author" data-direction="asc">
-          Author
+         <option value="listing-description" data-direction="asc">
+          Description
         </option>
      </select>
   </div>
@@ -236,31 +236,42 @@ window.Quarto = {
 <a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
 </th>
 <th>
-<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Author</a>
+<a class="sort" data-sort="listing-description" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Description</a>
 </th>
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-listing-date-sort="1748761200000" data-listing-file-modified-sort="1740640600772" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Project 1" data-listing-filename-sort="project1.qmd">
+<tr data-index="0" data-listing-date-sort="1718348400000" data-listing-title-sort="[Intimate Partner Violence During COVID-19](https://covidipv.humspace.ucla.edu/)">
 <td>
-<span class="listing-date">Jun 1, 2025</span>
+<span class="listing-date">Jun 14, 2024</span>
 </td>
 <td>
-<a href="./projects/project1.html" class="title listing-title">Project 1</a>
+<span class="listing-title"><a href="https://covidipv.humspace.ucla.edu/">Intimate Partner Violence During COVID-19</a></span>
 </td>
 <td>
-<span class="listing-author">Zhuowei Deng</span>
+<span class="listing-description">A data visualization project analyzing the impact of ethnocultural influences and external support systems on intimate partner violence during the COVID-19 pandemic, using survey data to uncover trends and disparities. </span>
 </td>
 </tr>
-<tr data-index="1" data-listing-file-modified-sort="1740640521597" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Project 2" data-listing-filename-sort="project2.qmd">
+<tr data-index="1" data-listing-date-sort="1718348400000" data-listing-title-sort="[Boost or Rest: How Caffeine and Sleep Influence Problem-Solving](Stats101B_Project.pdf)">
 <td>
-<span class="listing-date">&nbsp;</span>
+<span class="listing-date">Jun 14, 2024</span>
 </td>
 <td>
-<a href="./projects/project2.html" class="title listing-title">Project 2</a>
+<span class="listing-title"><a href="Stats101B_Project.pdf">Boost or Rest: How Caffeine and Sleep Influence Problem-Solving</a></span>
 </td>
 <td>
-<span class="listing-author">&nbsp;</span>
+<span class="listing-description">A statistical analysis project exploring the effects of caffeine intake and nap duration on problem-solving abilities using a Two-Way Randomized Block Design. The study utilizes ANOVA, TukeyHSD, and data visualization techniques to assess cognitive performance outcomes.</span>
+</td>
+</tr>
+<tr data-index="2" data-listing-date-sort="1711090800000" data-listing-title-sort="[Estimating Implied Volatility of Call Options Using Newton-Raphson and the Black-Scholes Model](Math151A_Project.pdf)">
+<td>
+<span class="listing-date">Mar 22, 2024</span>
+</td>
+<td>
+<span class="listing-title"><a href="Math151A_Project.pdf">Estimating Implied Volatility of Call Options Using Newton-Raphson and the Black-Scholes Model</a></span>
+</td>
+<td>
+<span class="listing-description">A mathematical and computational project implementing the Newton-Raphson method to approximate implied volatility in call options pricing.</span>
 </td>
 </tr>
 </tbody>
